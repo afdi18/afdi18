@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afdi18
-- 👀 I’m interested in Delphi, PHP, C, Web Design, Android, Mikrokontroller, Electronics
-- 🌱 I’m currently learning Flutter, Phyton, VueJs
+- 👀 I’m interested in Delphi, PHP, C, Web Programming, Mobile Programming, Mikrokontroller, Electronics
+- 🌱 I’m currently learning Flutter, VueJs, WebGis
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
