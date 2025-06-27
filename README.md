@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @afdi18
-- 👀 I’m interested in Delphi, PHP, C, Web Programming, Mobile Programming, Mikrokontroller, Electronics
+- 👀 I’m interested in VB.Net, Delphi, PHP, C, Web Programming, Mobile Programming, Mikrokontroller, Electronics
 - 🌱 I’m currently learning Flutter, VueJs, Nuxt, WebGis
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
